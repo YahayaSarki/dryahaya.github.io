@@ -1,6 +1,6 @@
 {
-  "short_name": "Dr. Yahaya Ibrahim",
-  "name": "SPACS Research Group",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
